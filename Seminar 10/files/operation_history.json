@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2026-05-04 13:31:04",
+        "operation": "upload",
+        "filename": "test.txt",
+        "user": "student",
+        "details": "File uploaded to server"
+    },
+    {
+        "timestamp": "2026-05-04 13:31:53",
+        "operation": "read_file",
+        "filename": "test.txt",
+        "user": "student",
+        "details": "File content read from server"
+    },
+    {
+        "timestamp": "2026-05-04 13:32:06",
+        "operation": "download",
+        "filename": "test.txt",
+        "user": "student",
+        "details": "File downloaded from server"
+    },
+    {
+        "timestamp": "2026-05-04 13:34:00",
+        "operation": "edit_file",
+        "filename": "test.txt",
+        "user": "student",
+        "details": "File content edited on server"
+    },
+    {
+        "timestamp": "2026-05-04 13:34:18",
+        "operation": "read_file",
+        "filename": "test.txt",
+        "user": "student",
+        "details": "File content read from server"
+    },
+    {
+        "timestamp": "2026-05-04 13:35:03",
+        "operation": "rename_file",
+        "filename": "testare.txt",
+        "user": "student",
+        "details": "File renamed from 'test.txt' to 'testare.txt'"
+    }
+]
